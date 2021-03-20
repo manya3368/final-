@@ -85,7 +85,7 @@ function setup() {
   tag = createSprite(955, 515, 50, 50);
   tag.addImage("gatetag", board);
   tag.scale = 1 / 6;
-  next = createSprite(1200, 650, 80, 80);
+  next = createSprite(1200, 680, 80, 80);
   next.addImage("nxt", nextimage);
   next.scale = 1 / 13;
   tick1 = createSprite(250, 630);
